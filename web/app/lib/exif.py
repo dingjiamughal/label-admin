@@ -1,10 +1,5 @@
 #!/usr/bin/env python
 # -*- coding:utf8 -*-
-"""
- Copyright (c) 2019 Baidu.com, Inc. All Rights Reserved
- Author: Zhao Penghao, zhaopenghao@baidu.com
- Create Time: 2019/3/18 上午10:50
-"""
 
 # import urllib.request
 # import urllib.parse
