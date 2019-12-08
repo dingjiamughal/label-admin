@@ -1,0 +1,23 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dingjiamughal/label-admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dingjiamughal/label-admin/issues"
+  },
+  "homepage": "https://github.com/dingjiamughal/label-admin#readme",
+  "dependencies": {
+    "lerna": "^3.19.0"
+  }
+}
